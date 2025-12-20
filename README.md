@@ -31,7 +31,7 @@ A clean and structured repository for **learning and practicing frontend develop
 * Practice **clean and maintainable UI code**
 * Master **layouts and responsiveness**
 * Improve **design-to-code skills**
-* Create a solid **frontend practice base** for interview
+* Create a solid **frontend practice base** for interviews
 
 ##
 
