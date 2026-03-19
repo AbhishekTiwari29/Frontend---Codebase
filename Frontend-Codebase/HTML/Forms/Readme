@@ -1,0 +1,3 @@
+The <form> tag in HTML is used to create a form for collecting user input. It acts as a container for input elements like text fields, buttons, checkboxes, radio buttons, etc.
+
+It also helps send the entered data to a server using attributes like action (where to send data) and method (how to send data, e.g., GET or POST).
