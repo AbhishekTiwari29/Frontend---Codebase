@@ -1,0 +1,7 @@
+Element Selector → Type Selector
+Class Selector → .class
+ID Selector → #id
+Universal Selector → *
+Group Selector → Multiple Selector
+Descendant Selector → Space (div p)
+Child Selector → >
