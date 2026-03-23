@@ -1,0 +1,39 @@
+/* Element Selector */
+p {
+  color: red;
+}
+
+/* Class Selector */
+.box {
+  background: yellow;
+}
+
+/* ID Selector */
+#unique {
+  color: blue;
+}
+
+/* Universal Selector */
+* {
+  font-family: Arial;
+}
+
+/* Group Selector */
+h3, span {
+  color: green;
+}
+
+/* Descendant Selector */
+div p {
+  color: purple;
+}
+
+/* Child Selector */
+.parent > p {
+  border: 2px solid black;
+}
+
+/* Adjacent Sibling Selector */
+h2 + p {
+  background: lightgray;
+}
