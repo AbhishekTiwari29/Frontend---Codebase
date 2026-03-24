@@ -1,0 +1,14 @@
+color → Text Property
+background → Background Property
+font-size → Font Property
+font-family → Font Property
+margin → Spacing Property
+padding → Spacing Property
+border → Border Property
+width → Size Property
+height → Size Property
+display → Layout Property
+position → Layout Property
+top / left / right / bottom → Position Property
+flex → Flexbox Property
+grid → Grid Property
