@@ -1,0 +1,40 @@
+/* Universal Selector */
+* {
+font-family: Arial;
+}
+
+/* Element Selector */
+p {
+color: darkblue;
+}
+
+/* Class Selector */
+.card {
+border: 2px solid black;
+padding: 10px;
+}
+
+/* ID Selector */
+#mainCard {
+background: lightyellow;
+}
+
+/* Group Selector */
+span, h4 {
+color: green;
+}
+
+/* Descendant Selector */
+.details p {
+color: purple;
+}
+
+/* Child Selector */
+.skills > p {
+border: 1px solid red;
+}
+
+/* Adjacent Sibling Selector */
+h3 + p {
+background: lightgray;
+}
