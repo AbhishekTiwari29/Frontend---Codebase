@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+  background: lightgray;
+}
+
+.container {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+.posts {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 70%;
+}
+
+.post {
+  border: 1px solid black;
+  padding: 15px;
+  position: relative;
+  height: 120px;
+}
+
+button {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+
+aside {
+  border: 1px solid black;
+  padding: 15px;
+  width: 30%;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background: lightgray;
+}
