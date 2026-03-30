@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  font-family: Arial;
+}
+
+/* Login */
+.login {
+  text-align: center;
+  padding: 40px;
+}
+
+.login input {
+  padding: 8px;
+  width: 200px;
+}
+
+.login button {
+  padding: 8px 20px;
+}
+
+/* Dashboard */
+.dashboard {
+  margin-top: 20px;
+}
+
+header {
+  background: black;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+}
+
+/* Sidebar */
+aside {
+  width: 200px;
+  border-right: 1px solid black;
+  padding: 15px;
+}
+
+/* Main Content */
+main {
+  padding: 20px;
+  width: 100%;
+}
+
+/* Cards */
+.cards {
+  display: flex;
+  gap: 20px;
+}
+
+.card {
+  border: 1px solid black;
+  padding: 20px;
+  width: 150px;
+  text-align: center;
+}
